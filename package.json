@@ -1,0 +1,23 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "clone of Youtube",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ice-lotus/wetube.git"
+  },
+  "author": "Lotus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ice-lotus/wetube/issues"
+  },
+  "homepage": "https://github.com/ice-lotus/wetube#readme"
+}
